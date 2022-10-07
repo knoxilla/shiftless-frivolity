@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+fortune webteam | cowthink -W 30 -f sheep | lolcat -p 1 -a -d 1 -s 36
+
+echo ""

@@ -1,0 +1,12 @@
+which fortune
+whish fortune
+brew search fortune
+brew info fortune
+brew list fortune
+ll /usr/local/share/games/fortunes
+fortune art
+fortune zippy
+fortune startrek
+subl /usr/local/share/games/fortunes/webteam
+strfile /usr/local/share/games/fortunes/webteam
+fortune webteam
