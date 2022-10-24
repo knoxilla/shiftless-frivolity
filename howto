@@ -1,0 +1,8 @@
+# fortune files usually at
+ls -la /usr/local/share/games/fortunes
+# make a new fortune file - see reference in 'all-fortunes'
+vi /usr/local/share/games/fortunes/webteam
+# when done, run 'strfile' on it to create a dat file
+strfile /usr/local/share/games/fortunes/webteam
+# reference the named fortune file thusly
+fortune webteam
