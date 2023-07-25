@@ -1,4 +1,13 @@
 
+v0.0.4 / 2023-07-25
+==================
+
+  * Into the dog days of summer... 🍹🌞🧃
+  * Backpfeifengesicht FTW 🇩🇪🤦🏽
+  * Welcoming our AI overlords 🤖🧠
+  * New year is new year 🗓️ ©️
+  * 📡 What's the frequency, Kenneth? 😜
+
 v0.0.3 / 2023-02-27
 ==================
 
