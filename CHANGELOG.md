@@ -1,4 +1,10 @@
 
+v0.0.5 / 2023-09-11
+==================
+
+  * Since you went away the days grow long, and soon I'll hear old winter's song... 🍂🍃🍁
+  * On our way into fall, alas 🍁🍂🍃
+
 v0.0.4 / 2023-07-25
 ==================
 
