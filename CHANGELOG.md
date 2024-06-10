@@ -1,7 +1,16 @@
 
-v0.0.5 / 2023-09-11
-==================
+v0.0.6 / 2024-06-10
+===================
 
+  * Catching up on used questions!
+  * Scratch that and reverse it
+  * Fortunes must be in the right place
+  * Now with more topics
+
+v0.0.5 / 2023-09-11
+===================
+
+  * Things never stay the same
   * Since you went away the days grow long, and soon I'll hear old winter's song... 🍂🍃🍁
   * On our way into fall, alas 🍁🍂🍃
 
