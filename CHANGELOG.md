@@ -1,4 +1,9 @@
 
+v0.0.7 / 2024-07-09
+==================
+
+  * 'ln -s foo bar' creates a link bar that points to a file foo, right?
+
 v0.0.6 / 2024-06-10
 ===================
 
